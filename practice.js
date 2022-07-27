@@ -2,8 +2,6 @@
 /** Currency converter
  * first, We have to take two variable 
  * one is for how much and another one is for what currency is it?
- * 
- * 
  * than, take another convert variable to calculate how much variable times what currency you want to convert that price.
  * finally, take log and show them like below:
  * 'total amount ' + how much variable + what currency variable + ' = ' + convert variable + ' name '
